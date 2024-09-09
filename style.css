@@ -208,11 +208,8 @@ header {
 .progress-line .javascript {
   width: 50%;
 }
-.progress-line .JAVA {
-  width: 40%;
-}
 .progress-line .PYTHON {
-  width: 40%;
+  width: 50%;
 }
 
 .bar .progress-line span::before {
@@ -253,11 +250,8 @@ header {
 .progress-line .JAVASCRIPT::after {
   content: "50%";
 }
-.progress-line .JAVA::after {
-  content: "40%";
-}
 .progress-line .PYTHON::after {
-  content: "40%";
+  content: "50%";
 }
 
 .navbar.solid {
